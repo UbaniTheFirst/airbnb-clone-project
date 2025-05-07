@@ -41,7 +41,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 | Scrum Master          | Streamlined payment and booking confirmation            |
 
 # UI Component Patterns
-Planned Components
+**Planned Components**
 1. Navbar
 - Logo
 - Search bar
@@ -59,5 +59,6 @@ Planned Components
 - Company information
 - Social media links
 - Copyright information
+
 Each component will be designed for reusability and consistency across the application.
 
