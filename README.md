@@ -27,3 +27,18 @@ Key Features
 
 # Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+# Project Roles and Responsibilities
+|          Role         | Responsibilities   |
+| --------------------- | ------------- |
+| Project Manager | Grid display of available properties with filters  |
+| Frontend Developers | Complete property details with images and booking form  |
+| Backend Developers  | Streamlined payment and booking confirmation  |
+| Designers | Grid display of available properties with filters  |
+| QA/Testers | Complete property details with images and booking form  |
+| DevOps Engineers  | Streamlined payment and booking confirmation  |
+| Product Owner | Complete property details with images and booking form  |
+| Scrum Master  | Streamlined payment and booking confirmation  |
+
+
+
