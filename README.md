@@ -17,7 +17,6 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Detailed property viewing
 - Secure checkout process
 - User authentication
-
 **Figma Design Specifications**
 **Color Styles:**
 - Primary: #FF5A5F
@@ -29,8 +28,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
-
-**Importance of identifying design properties in a mock-up design**
+   
+# Importance of identifying design properties in a mock-up design
 Identifying design properties in a mock-up ensures clear communication, gathers focused feedback, refines the visual design and usability, and saves time and money by preventing later issues.
 
 # Primary Pages
