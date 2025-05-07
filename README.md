@@ -12,11 +12,13 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Maintain visual consistency
 - Ensure fast loading times
 - Prioritize mobile responsiveness
+  
 **Key Features**
 - Property search and filtering
 - Detailed property viewing
 - Secure checkout process
 - User authentication
+  
 **Figma Design Specifications**
 **Color Styles:**
 - Primary: #FF5A5F
@@ -24,12 +26,13 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Background: #FFFFFF
 - Text: #222222
 - Secondary Text: #717171
+
 **Typography:**
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
-   
-# Importance of identifying design properties in a mock-up design
+
+**Importance of identifying design properties in a mock-up design**
 Identifying design properties in a mock-up ensures clear communication, gathers focused feedback, refines the visual design and usability, and saves time and money by preventing later issues.
 
 # Primary Pages
@@ -39,7 +42,7 @@ Identifying design properties in a mock-up ensures clear communication, gathers 
 | Listing Detailed View | Complete property details with images and booking form  |
 | Simple Checkout View  | Streamlined payment and booking confirmation            |
 
-# Importance of User-Friendly Design
+**Importance of User-Friendly Design in a booking system**
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 # Project Roles and Responsibilities
